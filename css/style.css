@@ -79,8 +79,8 @@ h5 {
 html {
     overflow-x: hidden !important;
     height: 100%;
-    max-width: 98%;
-    margin: 0 auto;
+    max-width: 90%;
+    margin-left: 10px;
     position: relative;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
